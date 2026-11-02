@@ -62,3 +62,4 @@ Open `SponsoredQA_Analysis.ipynb` in Jupyter and run all cells.
 ## Author
 
 Lihi Bar-Tal — Technion
+
